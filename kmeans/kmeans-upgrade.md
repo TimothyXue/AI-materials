@@ -32,4 +32,5 @@ http://rosettacode.org/wiki/K-means%2B%2B_clustering
 (3)关于收敛性的论述性文章，可以扩展阅读一下（见PDF，英文）
 
 	989-convergence-properties-of-the-k-means-algorithms.pdf」
+	https://pan.baidu.com/disk/home#list/vmode=list&path=%2Fmachinelearnnig
 —————————
