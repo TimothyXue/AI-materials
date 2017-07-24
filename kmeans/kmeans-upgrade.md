@@ -17,6 +17,7 @@ http://blog.csdn.net/u014568921/article/details/48835697
 (2)二分K均值
 
 http://blog.csdn.net/zouxy09/article/details/17590137 
+
 (3)KMeans++
 
 http://blog.csdn.net/loadstar_kun/article/details/39450615 
